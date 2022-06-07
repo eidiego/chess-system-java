@@ -19,7 +19,7 @@ public class UI {
             System.out.print(" -");
         }
         else {
-            System.out.print(" ");
+            System.out.print(" " + piece.toString());
         }
     }
 }
